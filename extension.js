@@ -225,7 +225,7 @@ class Extension {
       player.play_from_file(soundFile, 'Alert', null);
       
       // Send Notification
-      Main.notify('Timer finished!');
+      Main.notify('balblaTimer finished!');
    }      
 }
 

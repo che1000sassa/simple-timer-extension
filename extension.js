@@ -225,7 +225,7 @@ class Extension {
       player.play_from_file(soundFile, 'Alert', null);
       
       // Send Notification
-      Main.notify('End2e mit spielen!');
+      Main.notify('Ende mit spielen!');
    }      
 }
 
